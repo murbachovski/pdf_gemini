@@ -30,9 +30,9 @@ python3 app3.py input.pdf
 
 # 웹 구성
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/df5f3ae6-889d-43df-96d0-06423136f577" width="700">
-  <img src="https://github.com/user-attachments/assets/9a199844-c392-47a7-bf17-61e3f409034d" width="700">
-  <img src="https://github.com/user-attachments/assets/ce6599f2-913d-42de-aac2-b7fd4cf14e47" width="700">
+  <img src="https://github.com/user-attachments/assets/df5f3ae6-889d-43df-96d0-06423136f577" width="1000">
+  <img src="https://github.com/user-attachments/assets/9a199844-c392-47a7-bf17-61e3f409034d" width="1000">
+  <img src="https://github.com/user-attachments/assets/ce6599f2-913d-42de-aac2-b7fd4cf14e47" width="1000">
 </p>
 
 # Ngrok
